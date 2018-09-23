@@ -9,10 +9,10 @@
       "url": "https://example.com/ota-package.zip",
       "version": "3.0",
       "changelog_system": "Test",
-      "changelog_misc" : "",
-      "changelog_device" : "",
-      "changelog_settings" : "",
-      "changelog_securitypatch" : ""
+      "changelog_misc" : "Testuk",
+      "changelog_device" : "Testulini",
+      "changelog_settings" : "Testuos",
+      "changelog_securitypatch" : "Big Tasty"
     }
   ]
 }

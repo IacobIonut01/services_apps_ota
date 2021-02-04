@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1613779200,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "datetime": 1612459475,
+      "filename": "dotOS-R-v5.0.0-davinci-GAPPS-20210204-1724.zip",
+      "id": "817af9b5b8eab6151c22456634c24dfe",
       "romtype": "GAPPS",
-      "size": 1314572800,
-      "url": "https://i.imgur.com/Mnf0oda.jpeg",
+      "size": 1666374431,
+      "url": "http://transfer.sh/get/nbWhE/dotOS-R-v5.0.0-davinci-GAPPS-20210204-1724.zip",
       "version": "v5.0.0"
     }
   ]

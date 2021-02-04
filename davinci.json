@@ -14,8 +14,8 @@
           "miscSummary":"",
           "settingsTitle":"",
           "settingsSummary":"",
-          "securityTitle":"February Security Patches",
-          "securitySummary":"",
+          "securityTitle":"",
+          "securitySummary":"February Security Patches",
           "systemTitle":"Customization",
           "systemSummary":"Added ability to disable Card based style of settings sections"
         }
